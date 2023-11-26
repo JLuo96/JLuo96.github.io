@@ -85,8 +85,8 @@ author:
   bio              : "CSE PhD student since fall 2021"
   location         : "San Francisco Bay Area"
   employer         : "University of California, Santa Cruz"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : 
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=2x71Xmh1U3gC&hl=en&oi=ao"
   email            : "jluo53@ucsc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -176,13 +176,13 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
