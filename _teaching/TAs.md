@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 venue: "University of California, Santa Cruz, Department of Computer Science and Engineering"
 location: "Santa Cruz, CA"
+date: 
 ---
 
 **Teaching Asistant** at UCSC
