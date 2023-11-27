@@ -21,7 +21,7 @@ Regressing 3D human face shape from images and video
 
 3D Gaussian Splatting for 3D face reconstruction and rendering
 
-Normal, albedo, sub-surface and specular map generation on 3D face
+Realistic graphical rendering on 3D face 
 
 3D morphable model
 
