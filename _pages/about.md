@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at University of California, Santa cruz, advised by professor [James Davis](https://users.soe.ucsc.edu/~davis/), and co-advised by professor [Alex Pang](https://users.soe.ucsc.edu/~pang/).
+I'm a PhD student at University of California, Santa cruz, advised by professor [James Davis](https://users.soe.ucsc.edu/~davis/), and co-advised by professor [Alex Pang](https://users.soe.ucsc.edu/~pang/). I received my Bachelor degree of Electronic Engineering at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications).
 
 Research interests
 ======
