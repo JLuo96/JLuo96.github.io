@@ -17,17 +17,37 @@ Research interests
 Current research projects
 ======
 
-* Regressing 3D human face shape from images and video
+* **Regressing 3D human face shape** from images and video <br /> 
 
-* 3D Gaussian Splatting for 3D face reconstruction and rendering
+* **3D Gaussian Splatting** for 3D face reconstruction and rendering <br /> 
 
 Publication list
 ======
 
 **Disjoin pose and shape for 3D face reconstruction**  <br /> 
-Raja Kumar*, Jiahao Luo*, Alex Pang, James Davis  <br /> 
+Raja Kumar', **Jiahao Luo'**, Alex Pang, James Davis  <br /> 
 ICCV 2023 workshop <br /> 
 \[[Paper](https://openaccess.thecvf.com/content/ICCV2023W/AMFG/papers/Kumar_Disjoint_Pose_and_Shape_for_3D_Face_Reconstruction_ICCVW_2023_paper.pdf)\]
+
+**How much does input data type impact final face model accuracy?**  <br /> 
+**Jiahao Luo**, Fahim Hasan Khan, Issei Mori, James Davis, etc.  <br /> 
+CVPR 2022 <br /> 
+\[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Luo_How_Much_Does_Input_Data_Type_Impact_Final_Face_Model_CVPR_2022_paper.pdf)\]
+
+**Duelgan: a duel between two discriminators stabilizes the gan training**  <br /> 
+Jiaheng Wei, Minghao Liu, **Jiahao Luo**, Andrew Zhu, James Davis, Yang Liu  <br /> 
+ECCV 2022 <br /> 
+\[[Paper](https://arxiv.org/pdf/2101.07524.pdf)\]
+
+**How Accurate Is Passive Stereo For 3d Face Reconstruction?**  <br /> 
+**Jiahao Luo**, Eric Sandoval Ruezga, James Davis  <br /> 
+ICIP 2022 <br /> 
+\[[Paper](https://ieeexplore.ieee.org/abstract/document/9898004/)\]
+
+**Low-light Image Enhancement Using Chain-consistent Adversarial Networks**  <br /> 
+Minghao Liu, **Jiahao Luo**, Xiaohan Zhang, Yang Liu, James Davis  <br /> 
+CVPR 2022 <br /> 
+\[[Paper](https://ieeexplore.ieee.org/abstract/document/9956704/)\]
 
 
 
