@@ -3,7 +3,6 @@ title: "Teaching"
 collection: teaching
 type: "Undergraduate course"
 venue: "University of California, Santa Cruz, Department of Computer Science and Engineering"
-date: 2022-01-01
 location: "Santa Cruz, CA"
 ---
 
