@@ -8,11 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at University of California, Santa cruz, advised by professor James Davis.
+I'm a PhD student at University of California, Santa cruz, advised by professor [James Davis](https://users.soe.ucsc.edu/~davis/).
 
 Research interests
 ======
-3D reconstruction, Face and body.
+My research interest is 3D computer vision, computer graphics and deep learning. 
+
+My current project focuses on 3D reconstruction and rendering for human face, which includes:
+
+Regressing 3D human face shape from images and video
+
+3D Gaussian Splatting for 3D face reconstruction and rendering
+
+3D Human face animation
+
+
 
 <!-- Getting started
 ======
