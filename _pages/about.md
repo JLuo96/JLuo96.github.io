@@ -12,15 +12,21 @@ I'm a PhD student at University of California, Santa cruz, advised by professor 
 
 Research interests
 ======
-My research interest is 3D computer vision, computer graphics and deep learning. 
+3D computer vision, computer graphics and deep learning. 
 
-My current project focuses on 3D reconstruction and rendering for human face, which includes:
+Current research projects
+======
 
 Regressing 3D human face shape from images and video
 
 3D Gaussian Splatting for 3D face reconstruction and rendering
 
-3D Human face animation
+Normal, albedo, sub-surface and specular map generation on 3D face
+
+3D morphable model
+
+3D face animation
+
 
 
 
