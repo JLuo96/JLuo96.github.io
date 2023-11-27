@@ -49,7 +49,7 @@ Minghao Liu, **Jiahao Luo**, Xiaohan Zhang, Yang Liu, James Davis  <br />
 CVPR 2022 <br /> 
 \[[Paper](https://ieeexplore.ieee.org/abstract/document/9956704/)\]
 
-(Please check **'Publication'** for more details on selected projects)
+(Please check **'Publications'** for more details on selected projects)
 
 
 
