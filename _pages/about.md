@@ -17,15 +17,18 @@ Research interests
 Current research projects
 ======
 
-Regressing 3D human face shape from images and video
+* Regressing 3D human face shape from images and video
 
-3D Gaussian Splatting for 3D face reconstruction and rendering
+* 3D Gaussian Splatting for 3D face reconstruction and rendering
 
-Realistic graphical rendering on 3D face 
+Publication list
+======
 
-3D morphable model
+**Disjoin pose and shape for 3D face reconstruction**  <br /> 
+Raja Kumar*, Jiahao Luo*, Alex Pang, James Davis  <br /> 
+ICCV 2023 workshop <br /> 
+\[[Paper](https://openaccess.thecvf.com/content/ICCV2023W/AMFG/papers/Kumar_Disjoint_Pose_and_Shape_for_3D_Face_Reconstruction_ICCVW_2023_paper.pdf)\]
 
-3D face animation
 
 
 
