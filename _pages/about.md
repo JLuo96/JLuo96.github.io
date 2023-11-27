@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at University of California, Santa cruz, advised by professor [James Davis](https://users.soe.ucsc.edu/~davis/).
+I'm a PhD student at University of California, Santa cruz, advised by professor [James Davis](https://users.soe.ucsc.edu/~davis/), and co-advised by professor [Alex Pang](https://users.soe.ucsc.edu/~pang/)
 
 Research interests
 ======
