@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at University of California, Santa cruz, advised by professor [James Davis](https://users.soe.ucsc.edu/~davis/), and co-advised by professor [Alex Pang](https://users.soe.ucsc.edu/~pang/)
+I'm a PhD student at University of California, Santa cruz, advised by professor [James Davis](https://users.soe.ucsc.edu/~davis/), and co-advised by professor [Alex Pang](https://users.soe.ucsc.edu/~pang/).
 
 Research interests
 ======
@@ -24,14 +24,14 @@ Current research projects
 Publication list
 ======
 
-**Disjoin pose and shape for 3D face reconstruction**  <br /> 
+**Disjoint pose and shape for 3D face reconstruction**  <br /> 
 Raja Kumar', **Jiahao Luo'**, Alex Pang, James Davis  <br /> 
 ICCV 2023 workshop <br /> 
 \[[Paper](https://openaccess.thecvf.com/content/ICCV2023W/AMFG/papers/Kumar_Disjoint_Pose_and_Shape_for_3D_Face_Reconstruction_ICCVW_2023_paper.pdf)\]
 
 **How much does input data type impact final face model accuracy?**  <br /> 
 **Jiahao Luo**, Fahim Hasan Khan, Issei Mori, James Davis, etc.  <br /> 
-CVPR 2022 <br /> 
+CVPR 2022 Oral presentation <br /> 
 \[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Luo_How_Much_Does_Input_Data_Type_Impact_Final_Face_Model_CVPR_2022_paper.pdf)\]
 
 **Duelgan: a duel between two discriminators stabilizes the gan training**  <br /> 
