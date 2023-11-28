@@ -21,7 +21,7 @@ Current research projects
 
 * **3D Gaussian Splatting** for 3D face reconstruction and rendering <br /> 
 
-Publication list
+Selected Publications
 ======
 
 **Disjoint pose and shape for 3D face reconstruction**  <br /> 
@@ -34,22 +34,20 @@ ICCV workshop 2023 <br />
 CVPR 2022, Oral presentation <br /> 
 \[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Luo_How_Much_Does_Input_Data_Type_Impact_Final_Face_Model_CVPR_2022_paper.pdf)\]
 
-**Duelgan: a duel between two discriminators stabilizes the gan training**  <br /> 
-Jiaheng Wei, Minghao Liu, **Jiahao Luo**, Andrew Zhu, James Davis, Yang Liu  <br /> 
-ECCV 2022 <br /> 
-\[[Paper](https://arxiv.org/pdf/2101.07524.pdf)\]
-
 **How Accurate Is Passive Stereo For 3d Face Reconstruction?**  <br /> 
 **Jiahao Luo**, Eric Sandoval Ruezga, James Davis  <br /> 
 ICIP 2022 <br /> 
 \[[Paper](https://ieeexplore.ieee.org/abstract/document/9898004/)\]
 
+**Duelgan: a duel between two discriminators stabilizes the gan training**  <br /> 
+Jiaheng Wei, Minghao Liu, **Jiahao Luo**, Andrew Zhu, James Davis, Yang Liu  <br /> 
+ECCV 2022 <br /> 
+\[[Paper](https://arxiv.org/pdf/2101.07524.pdf)\]
+
 **Low-light Image Enhancement Using Chain-consistent Adversarial Networks**  <br /> 
 Minghao Liu, **Jiahao Luo**, Xiaohan Zhang, Yang Liu, James Davis  <br /> 
 CVPR 2022 <br /> 
 \[[Paper](https://ieeexplore.ieee.org/abstract/document/9956704/)\]
-
-(Please check **'Publications'** for more details on selected projects)
 
 
 
