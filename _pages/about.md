@@ -46,7 +46,7 @@ ECCV 2022 <br />
 
 **Low-light Image Enhancement Using Chain-consistent Adversarial Networks**  <br /> 
 Minghao Liu, **Jiahao Luo**, Xiaohan Zhang, Yang Liu, James Davis  <br /> 
-CVPR 2022 <br /> 
+ICPR 2022 <br /> 
 \[[Paper](https://ieeexplore.ieee.org/abstract/document/9956704/)\]
 
 
