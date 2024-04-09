@@ -12,17 +12,22 @@ I'm a PhD student at [University of California, Santa Cruz](https://www.ucsc.edu
 
 Research interests
 ======
-3D computer vision, computer graphics and deep learning. 
+3D Computer Vision, Biometrics, Neural Rendering, Generative AI
 
 Current research projects
 ======
 
-* **Regressing 3D human face shape** from images and video <br /> 
+* **3D Gaussian Splatting** for Human Face <br /> 
 
-* **3D Gaussian Splatting** for 3D face reconstruction and rendering <br /> 
+* **Regressing 3D human face shape** from images and video <br /> 
 
 Selected Publications
 ======
+
+**SplatFace: Gaussian Splat Face Reconstruction Leveraging an Optimizable Surface**  <br /> 
+**Jiahao Luo**, Jing Liu, James Davis  <br /> 
+submitted to ECCV 2024 <br /> 
+\[[Paper](https://arxiv.org/pdf/2403.18784.pdf)\]
 
 **Disjoint pose and shape for 3D face reconstruction**  <br /> 
 Raja Kumar', **Jiahao Luo'**, Alex Pang, James Davis  <br /> 
