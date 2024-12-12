@@ -14,7 +14,7 @@ Research interests
 ======
 3D Computer Vision, Biometrics, Neural Rendering, Generative AI
 
-Current research projects
+Current Research
 ======
 
 * **3D Gaussian Splatting** <br /> 
