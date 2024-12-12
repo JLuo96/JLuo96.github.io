@@ -17,16 +17,16 @@ Research interests
 Current research projects
 ======
 
-* **3D Gaussian Splatting** for Human Face <br /> 
+* **3D Gaussian Splatting** <br /> 
 
-* **Regressing 3D human face shape** from images and video <br /> 
+* **3D Human Reconstruction** <br /> 
 
 Selected Publications
 ======
 
 **SplatFace: Gaussian Splat Face Reconstruction Leveraging an Optimizable Surface**  <br /> 
 **Jiahao Luo**, Jing Liu, James Davis  <br /> 
-submitted to ECCV 2024 <br /> 
+WACV 2025 <br /> 
 \[[Paper](https://arxiv.org/pdf/2403.18784.pdf)\]
 
 **Disjoint pose and shape for 3D face reconstruction**  <br /> 
